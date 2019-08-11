@@ -1,5 +1,5 @@
 
-# Cardiac Arrhythmia Multy-Class Classification 
+# Cardiac Arrhythmia Multi-Class Classification 
 
 Analyze data and address missing data if there is any. 
 
